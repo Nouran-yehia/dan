@@ -2,26 +2,38 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+.filter-white{
+  filter: brightness(0) invert(1);
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+.dashes-icon{
+  top: -20px;
+  position: relative;
 }
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.nav-bar{
+  position: absolute;
+  text-align: center;
+  width: 46%;
+  height: 89%;
+  right: 0;
+  border-radius: 70%;
+  top: -3%;
+}
+@font-face {
+  font-family: "Readex-regular";
+  src: url("../../public/ReadexPro-Regular.ttf");
+}
+@font-face {
+  font-family: "Readex-medium";
+  src: url("../../public/ReadexPro-Medium.ttf");
+}
+@font-face {
+  font-family: "Readex-bold";
+  src: url("../../public/ReadexPro-Bold.ttf");
+}
+.nav-content{
+  text-align: right;
+  width: 71%;
+  position: relative;
+  top: 25vh;
+  font-size: 18px;
 }

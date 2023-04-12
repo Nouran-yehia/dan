@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "About": "About Dan",
+    "future_projects":"Future projects",
+    "media_center":"Media center",
+    "contact_us":"Contact us",
+    "join_us":"Join us",
+    "lang":"عربي"
+  },
+  "tourism":{
+    "adv":"Adventure Tourism",
+    "eco":"Eco Tourism",
+    "agri":"Agri-Tourism",
+    "adv_content":"Reconnect with nature through exciting outdoor adventures in unique destinations that showcase Saudi Arabia’s diverse landscapes and terrain",
+    "agri_content":"Discover the Kingdom’s roots with our immersive agritourism experiences and learn more about traditional and modern farming practices",
+    "eco_content":"Escape the pressures of everyday life with extraordinary retreats that celebrate the Kingdom’s natural beauty and nutritious, authentic cuisine",
+    "join_dan":"Become a Partner",
+    "explore":"Explore"
+  },
+  "our_story":{
+    "title":"Our Story",
+    "head":"Nurturing a Sustainable Tourism Ecosystem",
+    "content":"Dan Company seeks to encourage residents and visitors to deepen their connections with nature while contributing to the sustainable prosperity of communities across the Kingdom. Established and wholly owned by the Public Investment Fund (PIF), we aim to showcase the country’s rich agricultural and natural diversity through immersive agritourism, adventure, and ecotourism experiences. Our offerings cater to the preferences of all visitors, and range"
+  },
+  "impact":{
+    "title":"Impact",
+    "content":"Dan Company seeks to encourage residents and visitors to deepen their connections with nature while contributing to the sustainable prosperity of communities across the Kingdom."
+  },
+  "news":{
+    "title":"News & Media"
+  },
+  "home_footer":{
+    "about":"About Us",
+    "future_projects":"Future Projects",
+    "news":"News & Media",
+    "contact":"Contact Us",
+    "careers":"Careers",
+    "follow": "Follow us"
+  }
+}
